@@ -1,11 +1,11 @@
 # Monitoría Proyecto Experimental 2
 Las monitorias son de 11:00 a.m. - 12:00 m.d. los viernes. Para asesorias individuales contactar a alguna de las monitoras.
 ## Documentos
-- (Desarollo del Modelo Matemático y Electromagnético)[Modelo_Matemático_Electromagnético_Sismómetro.pdf]
-- Desarollo del Código de Vigas Mediante Elementos Finitos[FEMVigas.pdf]
-  
+- [Desarrollo del Modelo Matemático y Electromagnético](Modelo_Matematico_Electromagnetico_Sismometro.pdf)
+- [Desarrollo del Código de Vigas mediante Elementos Finitos](FEMVigas.pdf)
+
 ## Cronograma
-- *Semana 3* - (Introducción al proyecto: Componentes, Modelos, Sismómetros Anteriores y Tips)[Intro.pdf]
+- *Semana 3* – [Introducción al proyecto: Componentes, Modelos, Sismómetros Anteriores y Tips](Intro.pdf)
 - *Semana 4* - Desarollo del Modelo Matemático y Electromagnético
 - *Semana 5* - Taller de Resistencia
 - *Semana 6* - Caracterizaciones
