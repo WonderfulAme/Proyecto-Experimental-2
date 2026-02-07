@@ -3,8 +3,8 @@ Las monitorias son de 11:00 a.m. - 12:00 m.d. los viernes. Para asesorias indivi
 ## Cronograma
 - *Semana 3* - Introducción al proyecto: Componentes, Modelos, Sismómetros Anteriores y Tips
 - *Semana 4* - Desarollo del Modelo Matemático y Electromagnético
-- *Semana 5* - Caracterizaciones
-- *Semana 6* - Taller de Resistencia
+- *Semana 5* - Taller de Resistencia
+- *Semana 6* - Caracterizaciones
 - *Semana 7* - Código de Vigas
 - *Semana 8* - Cosas del Lab: Osciloscopio, Mesa Vibracional, Fuente
 - *Semana 9* - Amortiguamiento
